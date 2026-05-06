@@ -2,10 +2,11 @@
 
 Actively learning the ways of the programming world and contributing to repos.
 I am currently working on my custom Interpreters, VM bytecode and their tooling in C and Java (checkout my repos for more !).
+Also learning physics.
 
 ## About Me
 
-Iam 19 years old from India and I am a computer science student. Currently exploring different domains and their problems.
+Iam a 19-year old computer science student from India.
 
 ## Contact
 
